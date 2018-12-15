@@ -1,2 +1,4 @@
 .ipynb_checkpoints
 __pycache__
+F_MNIST_data/
+checkpoint.pth
