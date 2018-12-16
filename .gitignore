@@ -2,3 +2,5 @@
 __pycache__
 F_MNIST_data/
 checkpoint.pth
+__MACOSX/
+Cat_Dog_data/
